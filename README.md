@@ -1,2 +1,0 @@
-# HsinLingCStock.github.io
-HsinLingCStock
